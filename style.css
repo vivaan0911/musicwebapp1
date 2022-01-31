@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+}
+
+.note{
+    font-size: 17px;
+    color: red;
+}
+
+.sn{
+    font-size: 20px;
+    border-radius: 20px;
+}
